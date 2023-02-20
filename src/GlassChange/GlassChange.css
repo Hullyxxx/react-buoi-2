@@ -1,0 +1,9 @@
+.background {
+    background-image: url('https://thuthuatnhanh.com/wp-content/uploads/2021/12/background-cay-xanh-dep-don-gian.jpg');
+    width: 100%;
+    height: 100vh;
+  }
+
+.btn-img {
+  outline: none;
+}
